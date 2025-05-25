@@ -12,11 +12,13 @@ The Dynamic Fashion Pricing API offers an intelligent system for fashion retaile
 This project encompasses the following completed stages:
 
 1.  **Exploratory Data Analysis (EDA)**:
+    * Check out [EDA](https://www.kaggle.com/code/mehrajalomtapadar/eda01) for NOTEBOOK.
     * Comprehensive analysis of the fashion dataset to identify trends, distributions, and correlations relevant to pricing.
     * Data cleaning and visualization to uncover key insights.
     * (Primarily conducted in Jupyter Notebooks like `notebooks/eda01 (4).ipynb`)
 
 2.  **Feature Engineering (FE)**:
+    * Check out [Feature Engineering](https://www.kaggle.com/code/mehrajalomtapadar/fe-01) for NOTEBOOK.
     * Transformation of raw data into meaningful features to enhance model predictive power. Key features engineered and used include `BrandName`, `Category`, `MRP`, `Details` (text-based), and `Sizes_str` (processed from available sizes).
     * Techniques included cleaning and standardizing categorical and text data.
     * (Insights and processes developed in Jupyter Notebooks like `notebooks/fe-01 (1).ipynb`)
