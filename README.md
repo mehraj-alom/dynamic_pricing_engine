@@ -112,13 +112,13 @@ An **R² score of approximately 0.90** indicates that the models can explain abo
     * **Prediction Endpoint**: `POST` requests to `http://localhost:8000/predict`
         * **Request Body Example** (adjust based on your `schemas.py` and expected input features):
             ```json
-            {
-              "BrandName": "SomeBrand",
-              "Category": "SomeCategory",
-              "MRP": 1000,
-              "Details": "some item description",
-              "Sizes_str": "L M S"
-            }
+          {
+             "BrandName": "Nike",
+             "Category": "WesrernWear",
+             "MRP": 1999,
+             "Details": "cotton summer wear",
+             "Sizes": "S"
+         }
             ```
 
 ---
