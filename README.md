@@ -90,7 +90,7 @@ An **R² score of approximately 0.90** indicates that the models can explain abo
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <("https://hub.docker.com/repository/docker/mehrajalom/fashion-api/general")>
+    git clone <("https://github.com/mehraj-alom")>
     cd dynamic_pricing_engine
     ```
 
