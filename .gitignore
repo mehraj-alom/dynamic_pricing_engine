@@ -3,3 +3,23 @@ env/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.env
+*.env
+env.local
+# IDE / Editor specific
+.vscode/
+.idea/
+*.project
+*.pydevproject
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.dockerignore
+.gitignore
